@@ -3,7 +3,8 @@
  <head>
   <h1>
    ¡DISTRIBUIDORA GUARILAQUE YOPAL
-   <P> Bosques de Sirivana, Dg. 44 #39 -05, Yopal, Pedregal, Yopal, Casanare</P>
+   <a href="https://maps.app.goo.gl/yLnpvacUEawbr6cR8" target="_blank">Texto que se ve en azul</a>
+
   </h1>
   <h2>
   </h2>
