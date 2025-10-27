@@ -3,7 +3,7 @@
  <head>
   <h1>
    ¡DISTRIBUIDORA GUARILAQUE YOPAL
-   <a href="https://maps.app.goo.gl/yLnpvacUEawbr6cR8" target="_blank">Texto que se ve en azul</a>
+   <a href="https://maps.app.goo.gl/yLnpvacUEawbr6cR8" target="_blank">Ubicaciòn</a>
 
   </h1>
   <h2>
