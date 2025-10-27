@@ -3,7 +3,7 @@
  <head>
   <h1>
    ¡DISTRIBUIDORA GUARILAQUE YOPAL
-   <a href="https://maps.app.goo.gl/yLnpvacUEawbr6cR8" target="_blank">Ubicaciòn</a>
+   <a href="https://maps.app.goo.gl/yLnpvacUEawbr6cR8" target="_blank">Ubicanos</a>
 
   </h1>
   <h2>
@@ -239,10 +239,7 @@
    </h2>
    <p>
     Haz clic para enviarme un correo:
-   </p>
-   <a href="&lt;gerenciaguarilaque@gmail.com"target
-    Enviar correo
-  <a></a> 
+   
    <p>
     © 2025 Guarilaque - Todos los derechos reservados.
  <a href="https://www.facebook.com/share/1aGkHpyNpx/" target="_blank">FACEBOOK</a>
