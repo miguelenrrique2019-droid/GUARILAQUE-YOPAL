@@ -245,7 +245,8 @@
   <a></a> 
    <p>
     © 2025 Guarilaque - Todos los derechos reservados.
-   </A>FACEBOOK <A href=" https://www.facebook.com/share/1aGkHpyNpx/"target="_blank">sigueme en facebook</A>
+ <a href="https://www.facebook.com/share/1aGkHpyNpx/" target="_blank">FACEBOOK</a>
+
   </p>
  </footer>
 </body>
